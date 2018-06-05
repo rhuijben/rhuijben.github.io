@@ -1,3 +1,3 @@
 ### Huijben Websites 
- * [http://www.vmoo.com/](VMoo, The Universe at Your Desktop)
- * [http://www.vsoft.nl/](VSoft)
+ * [VMoo, The Universe at Your Desktop](http://www.vmoo.com/)
+ * [VSoft](http://www.vsoft.nl/)
